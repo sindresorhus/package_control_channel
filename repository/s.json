@@ -2979,7 +2979,7 @@
 		{
 			"name": "SOML",
 			"details": "https://github.com/soml-lang/sublime-soml",
-			"labels": ["language syntax", "formatting"],
+			"labels": ["language syntax", "formatting", "soml"],
 			"releases": [
 				{
 					"sublime_text": ">=4213",
